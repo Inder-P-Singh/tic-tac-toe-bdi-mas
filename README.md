@@ -14,3 +14,7 @@ A Python implementation of a Belief‑Desire‑Intention (BDI) Tic‑Tac‑Toe M
 📋 How to Run
 git clone https://github.com/Inder‑P‑Singh/tic‑tac‑toe‑bdi‑mas.git
 cd tic‑tac‑toe‑bdi‑mas
+
+Alternately, you can run the system in Kaggle interactively by copying my following Jupyter notebook:
+https://www.kaggle.com/code/inderpsingh/tic-tac-toe-bdi-multi-agent-system
+
